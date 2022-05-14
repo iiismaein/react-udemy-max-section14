@@ -3,3 +3,5 @@ then render MoviesList.js on App
 send props=> movies and loop on it
 <MoviesList movies={dummyMovies} />
 on MoviesList render movies on component Movie
+async /await
+https://dmitripavlutin.com/javascript-async-await/
