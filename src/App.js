@@ -24,6 +24,7 @@ function App() {
       <section>
         <button>Fetch Movies</button>
       </section>
+
       <section>
         <MoviesList movies={dummyMovies} />
       </section>
